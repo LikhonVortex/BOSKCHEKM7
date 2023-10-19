@@ -1,10 +1,10 @@
 <?php
 
-$auchats = array('-1001848070236');
-$owner = '5340950052';
+$auchats = array('-1001709038803');
+$owner = '6460957100';
 $preusers = array();
 
-if($userId == '1764351005'){
+if($userId == '6460957100'){
     $user = "<a href='tg://user?id=1764351005'>BADBOY</a>";
   $plan = 'God';
 }
